@@ -50,7 +50,7 @@ Estudar e replicar as melhores práticas das **Lojas Campeãs em Conversão** (g
 
 1.  Clone este repositório:
     ```bash
-    git clone [SEU_LINK_DO_REPOSITORIO]
+    git clone [https://github.com/AndresEspinosa307/Analise-de-Vendas-de-Supermercados.git]
     ```
 2.  Instale as dependências Python necessárias (ex: `pandas`, `matplotlib`, `seaborn`).
 3.  Abra o notebook `Analise_de_Supermarkets_Sales.ipynb` em um ambiente Jupyter (Jupyter Lab/Notebook) e execute as células.
